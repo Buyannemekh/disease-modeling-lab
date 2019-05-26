@@ -1,0 +1,92 @@
+---
+title: "Disease Modeling Lab RA manual"
+author: "Disaese Modeling Lab"
+date: "4/10/2019"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Communications
+
+### In person meeting
+Schedule weekly/bi-weekly meeting with Prof. Chaitra. Or meetings can be scheduled upon request and need. 
+
+### Lab meetings
+Weekly meeting where each student will have chance to present her/his work to showcase your work as well as to hear feedback from Prof. Chaitra and your peers.
+Please use this[link here] document to update the lab presentation schedule.
+Please put your presentation slides in this folder[link here] with title *name_topic_date.pptx* before presenting your work. 
+
+### Slack
+The lab members talk to each other via lab's Slack channel. If you have not been added to this, please talk to [put name of the person who is in charge] or e-mail to [email address of person who is in charge]
+
+### Absences
+Please pre-announce any absences – vacations, time during which you’ll be busy preparing for exams and won’t be available to work and attend group meeting.
+
+### Social media
+- We do have [lab website](https://blogs.umass.edu/chaitrag/) which is maintained by Prof. Chaitra. If you would like to link your own personal website or LinkedIn page on the Lab website, feel free to bring it up. 
+
+
+## Journals and Papers
+Hello world 
+### Reading
+Reading at graduate school is the way in which student not only learn but alos glean new ideas, theories, models. The following journals are good in OR.
+
+* Journal 1
+* Journal 2
+    + sub-item 1
+    + sub-item 2
+* Journal 3
+
+## Softwares 
+
+### Box 
+The lab members have been sharing papers in [this Box folder](https://umass.app.box.com/folder/34105735077)
+
+### R
+There are excellent introductions and tutorials that you easily find on internet. We recommend Hadley Wickham’s [R for Data Science](https://r4ds.had.co.nz/r-markdown.html), which is freely available and covers almost everything you’ll need to know to be productive to how to program in modern R. 
+
+1. Installing R
+3. fds
+
+### NetLogo
+NetLogo is one of the softwares for agent-based modeling. We use NetLogo for our infectious disease modeling projects in this lab. 
+
+### MATLAB
+MATLAB is often used among researchers 
+
+### Git and GitHub
+We recommend storing your code in GitHub. Keep your code neatly organized and commented. 
+
+## Dissertation, M.S. Thesis and Honor's Thesis 
+
+### M.S. Thesis
+
+#### Proposal 
+If you are doing M.S. Thesis, MIE department requires you to complete proposal at least 4 months prior your final defense. 
+
+#### Proposal Defense
+After submitting you proposal to your committee members, you schedule a proposal defense date with your committee members. Expect the proposal defense is around 20-30 mins including comments and questions.
+
+#### General thesis outline 
+Depending on your work, the outline of the thesis varies. However, you can find general outline here. 
+
+#### Thesis Defense 
+Thesis Defense should be scheduled upon the committee members approval. Keep in mind that there is specific dates that you have to defend your defense depending on your graduation term. 
+
+
+### Ph.D. student
+#### Ph.D. Qualifier Exams
+#### Ph.D. Dissertation Proposal Defense
+#### Ph.D. Dissertation Writing
+#### Ph.D. Dissertation Defense
+
+
+## Profiles
+## Purchases
+## Templates
